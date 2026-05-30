@@ -2,7 +2,7 @@
 
 Opinionated tmux configuration with theming. Clone it, run the installer, get a nice tmux setup.
 
-<img width="1545" alt="image" src="https://code.devsnc.com/user-attachments/assets/b9ae6ef1-50a3-4aad-8dda-78686891375d" />
+<img width="3090" height="1956" alt="image" src="https://github.com/user-attachments/assets/dd4e0ca0-2643-4b97-89e8-56c5a049d310" />
 
 ## Quick Start
 
