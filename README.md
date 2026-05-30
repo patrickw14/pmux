@@ -8,7 +8,7 @@ Opinionated tmux configuration with theming. Clone it, run the installer, get a 
 
 ```bash
 # Install
-git clone https://github.com/patrickwilson/pmux.git ~/pmux
+git clone https://github.com/patrickw14/pmux.git ~/pmux
 cd ~/pmux && ./install.sh
 
 # Add to your .zshrc / .bashrc
